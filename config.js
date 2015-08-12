@@ -4,7 +4,7 @@
 dribbbox.config = {
 
   dribbble_username : "vmcosta",
-  short_description : "Olá, sou um httpster que ama Grav CMS, desenvolvimento para a web and all things beautiful.",
+  short_description : "Hi, sou um httpster that loves Grav CMS, desenvolvimento para a web and all things beautiful.",
   email_address     : "vmcosta@me.com"
 
 }
