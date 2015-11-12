@@ -1,0 +1,18 @@
+enabled: true
+default_lang: pt
+author: Vitor Costa
+title_header: false
+home_profile: true
+infinite_scroll: true
+analytics: UA-24571011-1
+social:
+    twitter: @vmcosta
+
+streams:
+ schemes:
+   theme:
+     type: ReadOnlyStream
+     prefixes:
+       '':
+         - user/themes/vmcosta
+         - user/themes/cacti
