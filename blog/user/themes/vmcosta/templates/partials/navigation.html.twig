@@ -1,6 +1,6 @@
 <secton id="navigation">
     <nav class="main-nav">
-        <a href="/">Home</a>
+        <a href="/"><span class="arrow">←</span> Home</a>
         {% for page in pages.children.visible %}
             {% set current_page = (page.active or page.activeChild) ? 'active' : '' %}
             <a class="{{ current_page }}" href="{{ page.url }}">
