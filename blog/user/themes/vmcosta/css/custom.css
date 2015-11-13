@@ -2,4 +2,5 @@
 nav.main-nav { padding-left: 20px; float: none; text-align: center; background: none; }
 nav.main-nav a { position: static; color: #fff;font-size: 0.9em; }
 nav.main-nav a:hover { color: #3e7bac; }
+nav.main-nav a.cta { border: 1px solid rgba(255,255,255,0.4); }
 #post-list, #archive-list { margin-top: 5px; }
