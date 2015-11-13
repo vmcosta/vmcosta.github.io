@@ -1,5 +1,5 @@
-#navigation { background-color: #5badf0 }
+#navigation { background-color: #5badf0; }
 nav.main-nav { padding-left: 20px; float: none; text-align: center; background: none; }
-nav.main-nav a { position: static; color: #fff;font-weight: bold; }
-nav.main-nav a:hover { color: #fafafa; }
+nav.main-nav a { position: static; color: #fff;font-size: 0.9em; }
+nav.main-nav a:hover { color: #3e7bac; }
 #post-list, #archive-list { margin-top: 5px; }
