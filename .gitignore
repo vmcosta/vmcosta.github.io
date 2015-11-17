@@ -1,6 +1,5 @@
 # Grav Specific
 composer.lock
-cache/
 cache/*
 logs/*
 images/*
