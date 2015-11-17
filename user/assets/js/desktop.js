@@ -62,9 +62,10 @@
     var linkList = create("ul")
       , links = {}
 
+    links.Blog = "/blog"
     if (dribbbox.config.email_address)
       links.Mail = "mailto:" + dribbbox.config.email_address
-    links.Dribbble = "http://dribbble.com/" + dribbbox.config.dribbble_username
+      links.Dribbble = "http://dribbble.com/" + dribbbox.config.dribbble_username
     if (dribbbox.dribbbleProfile.twitter)
       links.Twitter = dribbbox.dribbbleProfile.twitter
 

@@ -186,6 +186,10 @@ header li a[href^="http://dribbble"] {
 header li a[href^="https://twitter"] {
   background-position: 100% 0;
 }
+header li a[href^="/blog"] {
+  background: #FFFFFF url(../images/blog.png) no-repeat;
+  background-position: 50% 50%;
+}
 header li a[href^="mailto"]:hover {
   background-color: #95D52A;
 }
