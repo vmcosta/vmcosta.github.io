@@ -1,6 +1,7 @@
 # Grav Specific
 composer.lock
 cache/*
+assets/*
 logs/*
 images/*
 user/data/*
