@@ -1,5 +1,5 @@
 ---
-title: Welcome to Grav!
+title: Welcome to Grav 2!
 date: 16:00 10-07-2015
 headline: Get ready to fall in love :)
 taxonomy:
