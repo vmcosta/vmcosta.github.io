@@ -9,7 +9,7 @@
             </a>
         {% endfor %}
         {% if config.plugins.feed.enabled %}
-            <a class="cta" href="{{ base_url }}{{ pages.find('/').rawRoute }}.rss">{{ 'RSS'|t }}</a>
+            <a class="cta" href="{{ base_url }}{{ pages.find('/blog').rawRoute }}.rss">{{ 'RSS'|t }}</a>
         {% endif %}
     </nav>
     {% if config.plugins.langswitcher.enabled %}
